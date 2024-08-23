@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Mayco-Richard/mostrar-texto/static/css/main.c26f2435.css",
-    "main.js": "/Mayco-Richard/mostrar-texto/static/js/main.3e37dbc3.js",
-    "static/media/logo.png": "/Mayco-Richard/mostrar-texto/static/media/logo.52f03562a39b307e51ac.png",
-    "index.html": "/Mayco-Richard/mostrar-texto/index.html",
-    "main.c26f2435.css.map": "/Mayco-Richard/mostrar-texto/static/css/main.c26f2435.css.map",
-    "main.3e37dbc3.js.map": "/Mayco-Richard/mostrar-texto/static/js/main.3e37dbc3.js.map"
+    "main.css": "/mostrar-texto/static/css/main.c26f2435.css",
+    "main.js": "/mostrar-texto/static/js/main.fab11323.js",
+    "static/media/logo.png": "/mostrar-texto/static/media/logo.52f03562a39b307e51ac.png",
+    "index.html": "/mostrar-texto/index.html",
+    "main.c26f2435.css.map": "/mostrar-texto/static/css/main.c26f2435.css.map",
+    "main.fab11323.js.map": "/mostrar-texto/static/js/main.fab11323.js.map"
   },
   "entrypoints": [
     "static/css/main.c26f2435.css",
-    "static/js/main.3e37dbc3.js"
+    "static/js/main.fab11323.js"
   ]
 }
